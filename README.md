@@ -24,7 +24,7 @@ Bienvenue dans ce workshop de 2h30 dédié à la création d’un bot Discord av
 
 ---
 
-## 📁 Arborescence du projet
+## 📁 Arborescence du workshop
 
 discord-workshop/
 ├── bot.py
@@ -44,10 +44,26 @@ discord-workshop/
 
 ```bash
 git clone https://github.com/ton-utilisateur/discord-workshop.git
-cd discord-workshop```
-## 2. Installer les dépendances
+cd discord-workshop
 ```
+
+## 2. Installer les dépendances
+```bash
 pip install -r requirements.txt
 ```
+## 3. Ajouter votre token dans un fichier
+
+```.env
+DISCORD_TOKEN=collez_votre_token_ici
+```
+
+## 🚀 Lancer le bot
+test :
+```bash
+python bot.py
+```
+
+
+
 
 
