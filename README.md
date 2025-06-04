@@ -63,6 +63,27 @@ test :
 python bot.py
 ```
 
+## 💪 Exercices :
+
+### ✅ Partie 1 : Commandes simples
+
+- Ajouter une commande `!hello`
+- Ajouter une commande `!say` qui répète le message
+
+### ✅ Partie 2 : Maths
+
+- Créer une commande `!sub` pour la soustraction
+- Ajouter `!div a b` avec gestion de la division par zéro
+
+### ✅ Partie 3 : API externe
+
+- Ajouter `!crypto BTC` qui renvoie le prix du BTC depuis [CoinGecko](https://www.coingecko.com/)
+- Ajouter `!weather Paris` en utilisant une API météo (ex: [OpenWeatherMap](https://openweathermap.org/api))
+
+### ✅ Partie 4 : Bonus
+
+- Créer un mini-jeu `!guess` où l’utilisateur devine un nombre entre 1 et 10
+- Ajouter une commande `!poll` qui lance un sondage avec réactions 👍👎
 
 
 
