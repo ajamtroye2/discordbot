@@ -26,15 +26,17 @@ Bienvenue dans ce workshop de 2h30 dédié à la création d’un bot Discord av
 
 ## 📁 Arborescence du workshop
 
+```
 discord-workshop/
 ├── bot.py
 ├── .env
 ├── requirements.txt
 ├── README.md
 └── cogs/
-├── hello.py
-├── maths.py
-└── api.py
+    ├── hello.py
+    ├── maths.py
+    └── api.py
+```
 
 ---
 
