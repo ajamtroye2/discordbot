@@ -1,6 +1,6 @@
 # 🤖 Workshop Discord Bot en Python
 
-Bienvenue dans ce workshop de 2h30 dédié à la création d’un bot Discord avec Python et `discord.py`.
+Bienvenue dans ce workshop de 2h dédié à la création d’un bot Discord avec Python et `discord.py`.
 
 ---
 
